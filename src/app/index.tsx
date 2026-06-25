@@ -10,9 +10,6 @@ export default function App() {
 
   return (
 
-    //testando push e pull do repositório
-
-
     <View style={styles.container}>
       <View style={styles.card}>
 
