@@ -8,6 +8,8 @@ export default function App() {
       router.push('/TelaCadastro');
     }
 
+    //vou commitar sim
+
   return (
 
     <View style={styles.container}>
